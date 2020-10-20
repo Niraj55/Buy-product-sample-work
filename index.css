@@ -1,0 +1,1080 @@
+
+#img1
+{
+  width: 90%; margin-left: 6%;
+}
+#img2
+{
+  width: 50%; margin-left: 24%;margin-top: 1%;
+}
+#img3
+{
+width: 50%;margin-left: 24%;margin-top: -3%;
+}
+#img4
+{
+width: 58%;margin-left: 20%;margin-bottom: 5%;
+}
+#img5
+{
+  width: 62%;margin-left: 12%;margin-top: 6%;
+}
+#ck1
+{
+  border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px;  margin-top: 82%;
+}
+#ck2
+{
+  border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px;  margin-top: 100%;
+}
+#ck3
+{
+ border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px;  margin-top: 100%; 
+}
+#ck4
+{
+  border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px;  margin-top: 100%;
+}
+#ck5
+{
+  border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px;  margin-top: 100%;
+}
+.btn {
+  border: 1px solid silver;
+  border-radius:7%;
+  width:18%;
+  height:60px;
+  color: black;
+  padding: 3px 10px 4px 2px;
+  text-align: center;
+  font-size: 12px;
+  margin-top: -6%;
+}
+.btn:hover {
+  background-color: #66ff66;
+  color: white;
+}
+.btn:focus,.btn:active {
+   outline: none !important;
+   box-shadow: none;
+  font-weight:bold;
+}
+button:focus { background-color: #66ff66; color:white;}
+.don {
+  border: 1px solid silver;
+   border-radius: 30px 30px 30px 30px;
+  width:25%;
+  height:35px;
+  color: black;
+  padding: 3px 10px 4px 2px;
+  font-size: 16px;
+  cursor: pointer;
+
+}
+#skk{
+  color: silver;
+  width: 15px; margin-left: 100%;
+}
+#skk:hover {
+  color: black;
+}
+#skk:focus,#skk:active {
+   outline: none !important;
+   box-shadow: none;
+  font-weight:bold;
+  color: black;
+}
+#skk:focus { color:black;}
+.don
+{
+  border: 1px solid silver;
+  border-radius: 30px 30px 30px 30px;
+  width:25%;
+  height:40px;
+  color: black;
+  padding: 3px 10px 4px 2px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 40px;
+ 
+}
+.doa
+{
+  border: 1px solid silver;
+  border-radius: 30px 30px 30px 30px;
+  width:30%;
+  height:38px;
+  color: black;
+  padding: 3px 10px 4px 2px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #9999ff;
+  margin-top: 40px;
+
+}
+#pay{
+  color: white;
+  margin-left: 35%;
+}
+.doa:hover {
+  background-color: #8080ff;
+}
+#pay:focus,#pay:active {
+   outline: none !important;
+   box-shadow: none;
+  font-weight:bold;
+  color: #e6e6e6;
+}
+
+.container01 {
+  position: relative;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.container01 img {vertical-align: middle;}
+
+.container01 {
+  color: #f1f1f1;
+}
+.content{
+  background-color: black; /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.1); /* Black background with 0.5 opacity */
+  color:black;
+  width: 80%;
+  height:45px;
+  text-align:center;
+  border: 1px solid silver;
+  border-radius: 10px 10px 10px 10px; 
+   position: absolute;
+  bottom: 6%;
+  right: 10%;
+  padding-left: 20px;
+  padding-right: 20px;
+  }
+
+.content1{
+  background-color: black; /* Fallback color */
+  background-color: rgba(0.1, 0.1, 0, 0.03); /* Black background with 0.5 opacity */
+  color:black;
+  width: 89%;
+  height:225px;
+  text-align:center;
+  border: 1px solid silver;
+  position: absolute;
+  bottom: -2%;
+  right: 10%;
+  padding-left: 40px;
+  padding-right: 30px;
+  box-shadow: 2px 3px 3px 1px silver;
+  }
+  
+
+.container02 {
+  position: relative;
+  max-width: 800px;
+}
+
+.container02 img {vertical-align: middle;}
+
+.container02 {
+  color: #f1f1f1;
+}
+
+.content2{
+  background-color: black; /* Fallback color */
+  background-color: rgba(0.1, 0, 0, 0.1); /* Black background with 0.5 opacity */
+  color:black;
+  width: 100%;
+  height:430px;
+  text-align:center;
+  border: 1px solid silver;
+  position: absolute;
+  padding-top: 8px;
+  right: 10%;
+  padding-left: 30px;
+  padding-right: 30px;
+  box-shadow: 2px 3px 3px 1px silver;
+  }
+  
+  #amount{
+    margin-left: 8%;
+    margin-top: -6%;
+  }
+
+  
+@media only screen and (max-width: 1550px)
+ {
+.content1{
+  background-color: black; /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.04); /* Black background with 0.5 opacity */
+  color:black;
+  width: 80%;
+  height:220px;
+  text-align:center;
+  border: 1px solid silver;
+  position: absolute;
+  bottom: -18%;
+  right: 10%;
+  padding-left: 20px;
+  padding-right: 20px;
+  box-shadow: 2px 3px 3px 1px silver;
+  }
+  .content2{
+  background-color: black; /* Fallback color */
+  background-color: rgba(0.1, 0.1, 0, 0.03); /* Black background with 0.5 opacity */
+  color:black;
+  width: 100%;
+  height:470px;
+  text-align:center;
+  border: 1px solid silver;
+  position: absolute;
+  padding-top: 8px;
+  right: 10%;
+  padding-left: 30px;
+  padding-right: 30px;
+  box-shadow: 2px 3px 3px 1px silver;
+  }
+  #img1
+{
+  width: 90%; margin-left: 6%; 
+}
+#img2
+{
+  width: 50%; margin-left: 22%;margin-top: -2%;
+}
+#img3
+{
+width: 50%;margin-left: 24%;margin-top: -2%;
+}
+#img4
+{
+width: 58%;margin-left: 20%;margin-bottom: 1%;
+}
+#img5
+{
+  width: 62%;margin-left: 20%;margin-top: 5%;
+}
+#ck1
+{
+  border: 2px solid white; background-color: white;border-radius: 5px 5px 5px 5px;  margin-top: 90%; font-size: 13px;
+}
+#ck2
+{
+  border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px;  margin-top: 105%; font-size: 12px;
+}
+#ck3
+{
+ border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px; margin-top: 104%; font-size: 12px;
+}
+#ck4
+{
+  border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px;  margin-top: 105%; font-size: 12px;
+}
+#ck5
+{
+  border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px; margin-top: 105%; font-size: 12px;
+}
+.btn {
+  border: 1px solid silver;
+  border-radius:7%;
+  width:30%;
+  height:55px;
+  color: black;
+  padding: 3px 10px 4px 2px;
+  text-align: center;
+  font-size: 12px;
+  margin-top: -6%;
+}
+  .btn:hover {
+  background-color: #66ff66;
+  color: white;
+}
+.btn:focus,.btn:active {
+   outline: none !important;
+   box-shadow: none;
+  font-weight:bold;
+}
+   button:focus { background-color: #66ff66; color:white;}
+.don {
+  border: 1px solid silver;
+   border-radius: 30px 30px 30px 30px;
+  width:25%;
+  height:35px;
+  color: black;
+  padding: 3px 10px 4px 2px;
+  font-size: 16px;
+  cursor: pointer;
+}
+#skk{
+  color: silver;
+   margin-left: 10%;
+}
+#skk:hover {
+  color: black;
+}
+#skk:focus,#skk:active {
+   outline: none !important;
+   box-shadow: none;
+  font-weight:bold;
+  color: black;
+}
+#skk:focus { color:black;}
+#sgk
+{
+ margin-top: -24px;margin-left: 55%;
+}
+
+#pay{
+  color: white;
+  font-size: 12px;
+  margin-top: 4px;
+  margin-left: 26px;
+}
+.doa:hover {
+  background-color: #8080ff;
+}
+#pay:focus,#pay:active {
+   outline: none !important;
+   box-shadow: none;
+  font-weight:bold;
+  color: #e6e6e6;
+}
+
+}
+@media only screen and (max-width: 608px)
+ {
+.content1{
+  background-color: black; /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.04); /* Black background with 0.5 opacity */
+  color:black;
+  width: 80%;
+  height:110px;
+  text-align:center;
+  border: 1px solid silver;
+  position: absolute;
+  bottom: -18%;
+  right: 10%;
+  padding-left: 20px;
+  padding-right: 20px;
+  box-shadow: 2px 3px 3px 1px silver;
+  margin-top: -10px;
+  margin-bottom: -23px;
+  }
+  .content2{
+  background-color: black; /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.03); /* Black background with 0.5 opacity */
+  color:black;
+  width: 100%;
+  height:230px;
+  text-align:center;
+  border: 1px solid silver;
+  position: absolute;
+  padding-top: 8px;
+  right: 10%;
+  padding-left: 30px;
+  padding-right: 30px;
+  box-shadow: 2px 3px 3px 1px silver;
+  }
+  #img1
+{
+  width: 90%; margin-left: 6%; 
+}
+#img2
+{
+  width: 50%; margin-left: 30%;margin-top: -3%;
+}
+#img3
+{
+width: 50%;margin-left: 10%;margin-top: -3%;
+}
+#img4
+{
+width: 52%;margin-left: 28%;margin-top: 10%;
+}
+#img5
+{
+  width: 62%;margin-left: 4%;margin-top: 18%;
+}
+#ck1
+{
+  border: 2px solid white; background-color: white;border-radius: 5px 5px 5px 5px;  margin-top: 100%; font-size: 11px;
+}
+#ck2
+{
+  border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px;  margin-top: 130%; font-size: 11px;
+}
+#ck3
+{
+ border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px; margin-top: 115%; font-size: 10px;
+}
+#ck4
+{
+  border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px;  margin-top: 125%; font-size: 9px;
+}
+#ck5
+{
+  border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px; margin-top: 125%; font-size: 10px;
+}
+.btn {
+  border: 1px solid silver;
+  border-radius:7%;
+  width:30%;
+  height:55px;
+  color: black;
+  padding: 3px 10px 4px 2px;
+  text-align: center;
+  font-size: 12px;
+  margin-top: -6%;
+}
+  .btn:hover {
+  background-color: #66ff66;
+  color: white;
+}
+.btn:focus,.btn:active {
+   outline: none !important;
+   box-shadow: none;
+  font-weight:bold;
+}
+   button:focus { background-color: #66ff66; color:white;}
+.don {
+  border: 1px solid silver;
+   border-radius: 30px 30px 30px 30px;
+  width:35%;
+  height:32px;
+  color: black;
+  padding: 3px 10px 4px 2px;
+  font-size: 16px;
+  cursor: pointer;
+}
+#skk{
+  color: silver;
+}
+#skk:hover {
+  color: black;
+}
+#skk:focus,#skk:active {
+   outline: none !important;
+   box-shadow: none;
+  font-weight:bold;
+  color: black;
+}
+#skk:focus { color:black;}
+#sgk
+{
+ margin-top:-25%;margin-left: 50%;
+}
+#pay{
+  color: white;
+  font-size: 10px;
+  margin-top: 6px;
+  padding:  1px;
+}
+   #quantity
+   {
+     margin-bottom:  -20%;
+     margin-left: 30px;
+   }
+.doa:hover {
+  background-color: #8080ff;
+}
+#pay:focus,#pay:active {
+   outline: none !important;
+   box-shadow: none;
+  font-weight:bold;
+  color: #e6e6e6;
+}
+   #sem{
+     margin-top: -24px;
+   }
+
+}
+
+@media only screen and (max-width: 600px)
+ {
+.content1{
+  background-color: black; /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.04); /* Black background with 0.5 opacity */
+  color:black;
+  width: 80%;
+  height:110px;
+  text-align:center;
+  border: 1px solid silver;
+  position: absolute;
+  bottom: -18%;
+  right: 10%;
+  padding-left: 20px;
+  padding-right: 20px;
+  box-shadow: 2px 3px 3px 1px silver;
+  margin-top: -10px;
+  margin-bottom: -23px;
+  }
+  .content2{
+  background-color: black; /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.03); /* Black background with 0.5 opacity */
+  color:black;
+  width: 100%;
+  height:230px;
+  text-align:center;
+  border: 1px solid silver;
+  position: absolute;
+  padding-top: 8px;
+  right: 10%;
+  padding-left: 30px;
+  padding-right: 30px;
+  box-shadow: 2px 3px 3px 1px silver;
+  }
+  #img1
+{
+  width: 90%; margin-left: 6%; 
+}
+#img2
+{
+  width: 50%; margin-left: 30%;margin-top: -3%;
+}
+#img3
+{
+width: 50%;margin-left: 10%;margin-top: -3%;
+}
+#img4
+{
+width: 52%;margin-left: 28%;margin-bottom: 4%;
+}
+#img5
+{
+  width: 62%;margin-left: 4%;margin-top: 12%;
+}
+#ck1
+{
+  border: 2px solid white; background-color: white;border-radius: 5px 5px 5px 5px;  margin-top: 100%; font-size: 11px;
+}
+#ck2
+{
+  border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px;  margin-top: 130%; font-size: 11px;
+}
+#ck3
+{
+ border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px; margin-top: 115%; font-size: 10px;
+}
+#ck4
+{
+  border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px;  margin-top: 125%; font-size: 9px;
+}
+#ck5
+{
+  border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px; margin-top: 125%; font-size: 10px;
+}
+.btn {
+  border: 1px solid silver;
+  border-radius:7%;
+  width:30%;
+  height:55px;
+  color: black;
+  padding: 3px 10px 4px 2px;
+  text-align: center;
+  font-size: 12px;
+  margin-top: -6%;
+}
+  .btn:hover {
+  background-color: #66ff66;
+  color: white;
+}
+.btn:focus,.btn:active {
+   outline: none !important;
+   box-shadow: none;
+  font-weight:bold;
+}
+   button:focus { background-color: #66ff66; color:white;}
+.don {
+  border: 1px solid silver;
+   border-radius: 30px 30px 30px 30px;
+  width:35%;
+  height:32px;
+  color: black;
+  padding: 3px 10px 4px 2px;
+  font-size: 16px;
+  cursor: pointer;
+}
+#skk{
+  color: silver;
+}
+#skk:hover {
+  color: black;
+}
+#skk:focus,#skk:active {
+   outline: none !important;
+   box-shadow: none;
+  font-weight:bold;
+  color: black;
+}
+#skk:focus { color:black;}
+#sgk
+{
+ margin-top:-25%;margin-left: 50%;
+}
+#pay{
+  color: white;
+  font-size: 10px;
+  margin-top: 6px;
+  padding:  1px;
+}
+   #quantity
+   {
+     margin-bottom:  -20%;
+     margin-left: 30px;
+   }
+.doa:hover {
+  background-color: #8080ff;
+}
+#pay:focus,#pay:active {
+   outline: none !important;
+   box-shadow: none;
+  font-weight:bold;
+  color: #e6e6e6;
+}
+   #sem{
+     margin-top: -24px;
+   }
+
+}
+@media only screen and (max-width: 405px)
+ {
+.content1{
+  background-color: black; /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.05); /* Black background with 0.5 opacity */
+  color:black;
+  width: 80%;
+  height:130px;
+  text-align:center;
+  border: 1px solid silver;
+  position: absolute;
+  bottom: -18%;
+  right: 10%;
+  padding-left: 20px;
+  padding-right: 20px;
+  box-shadow: 2px 3px 3px 1px silver;
+  margin-top:20px;
+  }
+  .content2{
+  background-color: black; /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.03); /* Black background with 0.5 opacity */
+  color:black;
+  width: 100%;
+  height:270px;
+  text-align:center;
+  border: 1px solid silver;
+  position: absolute;
+  padding-top: 8px;
+  right: 10%;
+  padding-left: 30px;
+  padding-right: 30px;
+  box-shadow: 2px 3px 3px 1px silver;
+  }
+  #img1
+{
+  width: 90%; margin-left: 6%; 
+}
+#img2
+{
+  width: 50%; margin-left: 28%;margin-top: 10%;
+}
+#img3
+{
+width: 50%;margin-left: 14%;margin-top: 10%;
+}
+#img4
+{
+width: 58%;margin-left: 20%;margin-bottom: -70%;
+}
+#img5
+{
+  width: 62%;margin-left: 8%;margin-bottom: -5%;
+}
+#ck1
+{
+  border: 2px solid white; background-color: white;border-radius: 5px 5px 5px 5px;  margin-top: 90%; font-size: 13px;
+}
+#ck2
+{
+  border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px;  margin-top: 105%; font-size: 12px;
+}
+#ck3
+{
+ border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px; margin-top: 110%; font-size: 9px;
+}
+#ck4
+{
+  border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px;  margin-top: 105%; font-size: 12px;
+}
+#ck5
+{
+  border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px; margin-top: 105%; font-size: 12px;
+}
+.btn {
+  border: 1px solid silver;
+  border-radius:7%;
+  width:30%;
+  height:55px;
+  color: black;
+  padding: 3px 10px 4px 2px;
+  text-align: center;
+  font-size: 12px;
+  margin-top: -6%;
+}
+  .btn:hover {
+  background-color: #66ff66;
+  color: white;
+}
+.btn:focus,.btn:active {
+   outline: none !important;
+   box-shadow: none;
+  font-weight:bold;
+}
+   button:focus { background-color: #66ff66; color:white;}
+.don {
+  border: 1px solid silver;
+   border-radius: 30px 30px 30px 30px;
+  width:35%;
+  height:32px;
+  color: black;
+  padding: 3px 10px 4px 2px;
+  font-size: 16px;
+  cursor: pointer;
+}
+#skk{
+  color: silver;
+}
+#skk:hover {
+  color: black;
+}
+#skk:focus,#skk:active {
+   outline: none !important;
+   box-shadow: none;
+  font-weight:bold;
+  color: black;
+}
+#skk:focus { color:black;}
+#sgk
+{
+ margin-top:-25%;margin-left: 50%;
+}
+#pay{
+  color: white;
+  font-size: 10px;
+  margin-top: 6px;
+  padding:  1px;
+}
+   #quantity
+   {
+     margin-bottom:  -20%;
+     margin-left: 30px;
+   }
+.doa:hover {
+  background-color: #8080ff;
+}
+#pay:focus,#pay:active {
+   outline: none !important;
+   box-shadow: none;
+  font-weight:bold;
+  color: #e6e6e6;
+}
+   #sem{
+     margin-top: -24px;
+   }
+
+}
+
+
+@media only screen and (max-width: 365px)
+ {
+.content1{
+  background-color: black; /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.05); /* Black background with 0.5 opacity */
+  color:black;
+  width: 80%;
+  height:130px;
+  text-align:center;
+  border: 1px solid silver;
+  position: absolute;
+  bottom: -18%;
+  right: 10%;
+  padding-left: 20px;
+  padding-right: 20px;
+  box-shadow: 2px 3px 3px 1px silver;
+  margin-top:20px;
+  }
+  .content2{
+  background-color: black; /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.03); /* Black background with 0.5 opacity */
+  color:black;
+  width: 100%;
+  height:270px;
+  text-align:center;
+  border: 1px solid silver;
+  position: absolute;
+  padding-top: 8px;
+  right: 10%;
+  padding-left: 30px;
+  padding-right: 30px;
+  box-shadow: 2px 3px 3px 1px silver;
+  }
+  #img1
+{
+  width: 90%; margin-left: 6%; 
+}
+#img2
+{
+  width: 50%; margin-left: 28%;margin-top: 10%;
+}
+#img3
+{
+width: 50%;margin-left: 14%;margin-top: 10%;
+}
+#img4
+{
+width: 58%;margin-left: 20%;margin-bottom: -70%;
+}
+#img5
+{
+  width: 62%;margin-left: 8%;margin-bottom: -5%;
+}
+#ck1
+{
+  border: 2px solid white; background-color: white;border-radius: 5px 5px 5px 5px;  margin-top: 90%; font-size: 13px;
+}
+#ck2
+{
+  border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px;  margin-top: 105%; font-size: 12px;
+}
+#ck3
+{
+ border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px; margin-top: 110%; font-size: 9px;
+}
+#ck4
+{
+  border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px;  margin-top: 105%; font-size: 12px;
+}
+#ck5
+{
+  border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px; margin-top: 105%; font-size: 12px;
+}
+.btn {
+  border: 1px solid silver;
+  border-radius:7%;
+  width:30%;
+  height:55px;
+  color: black;
+  padding: 3px 10px 4px 2px;
+  text-align: center;
+  font-size: 12px;
+  margin-top: -6%;
+}
+  .btn:hover {
+  background-color: #66ff66;
+  color: white;
+}
+.btn:focus,.btn:active {
+   outline: none !important;
+   box-shadow: none;
+  font-weight:bold;
+}
+   button:focus { background-color: #66ff66; color:white;}
+.don {
+  border: 1px solid silver;
+   border-radius: 30px 30px 30px 30px;
+  width:35%;
+  height:32px;
+  color: black;
+  padding: 3px 10px 4px 2px;
+  font-size: 16px;
+  cursor: pointer;
+}
+#skk{
+  color: silver;
+}
+#skk:hover {
+  color: black;
+}
+#skk:focus,#skk:active {
+   outline: none !important;
+   box-shadow: none;
+  font-weight:bold;
+  color: black;
+}
+#skk:focus { color:black;}
+#sgk
+{
+ margin-top:-25%;margin-left: 50%;
+}
+#pay{
+  color: white;
+  font-size: 10px;
+  margin-top: 6px;
+  padding:  1px;
+}
+   #quantity
+   {
+     margin-bottom:  -20%;
+     margin-left: 30px;
+   }
+.doa:hover {
+  background-color: #8080ff;
+}
+#pay:focus,#pay:active {
+   outline: none !important;
+   box-shadow: none;
+  font-weight:bold;
+  color: #e6e6e6;
+}
+   #sem{
+     margin-top: -24px;
+   }
+
+}
+
+
+@media only screen and (max-width: 320px)
+ {
+.content1{
+  background-color: black; /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.05); /* Black background with 0.5 opacity */
+  color:black;
+  width: 80%;
+  height:110px;
+  text-align:center;
+  border: 1px solid silver;
+  position: absolute;
+  bottom: -18%;
+  right: 10%;
+  padding-left: 20px;
+  padding-right: 20px;
+  box-shadow: 2px 3px 3px 1px silver;
+  }
+  .content2{
+  background-color: black; /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.03); /* Black background with 0.5 opacity */
+  color:black;
+  width: 100%;
+  height:230px;
+  text-align:center;
+  border: 1px solid silver;
+  position: absolute;
+  padding-top: 8px;
+  right: 10%;
+  padding-left: 30px;
+  padding-right: 30px;
+  box-shadow: 2px 3px 3px 1px silver;
+  }
+  #img1
+{
+  width: 90%; margin-left: 6%; 
+}
+#img2
+{
+  width: 50%; margin-left: 28%;margin-top: 12%;
+}
+#img3
+{
+width: 50%;margin-left: 14%;margin-top: 12%;
+}
+#img4
+{
+width: 58%;margin-left: 24%;margin-bottom: %;
+}
+#img5
+{
+  width: 62%;margin-left: 6%;margin-top: 10%;
+}
+#ck1
+{
+  border: 2px solid white; background-color: white;border-radius: 5px 5px 5px 5px;  margin-top: 90%; font-size: 13px;
+}
+#ck2
+{
+  border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px;  margin-top: 105%; font-size: 12px;
+}
+#ck3
+{
+ border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px; margin-top: 110%; font-size: 9px;
+}
+#ck4
+{
+  border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px;  margin-top: 105%; font-size: 12px;
+}
+#ck5
+{
+  border: 1px solid white; background-color: white;border-radius: 5px 5px 5px 5px; margin-top: 105%; font-size: 12px;
+}
+.btn {
+  border: 1px solid silver;
+  border-radius:7%;
+  width:30%;
+  height:55px;
+  color: black;
+  padding: 3px 10px 4px 2px;
+  text-align: center;
+  font-size: 12px;
+  margin-top: -6%;
+}
+  .btn:hover {
+  background-color: #66ff66;
+  color: white;
+}
+.btn:focus,.btn:active {
+   outline: none !important;
+   box-shadow: none;
+  font-weight:bold;
+}
+   button:focus { background-color: #66ff66; color:white;}
+.don {
+  border: 1px solid silver;
+   border-radius: 30px 30px 30px 30px;
+  width:35%;
+  height:32px;
+  color: black;
+  padding: 3px 10px 4px 2px;
+  font-size: 16px;
+  cursor: pointer;
+}
+#skk{
+  color: silver;
+}
+#skk:hover {
+  color: black;
+}
+#skk:focus,#skk:active {
+   outline: none !important;
+   box-shadow: none;
+  font-weight:bold;
+  color: black;
+}
+#skk:focus { color:black;}
+#sgk
+{
+ margin-top:-25%;margin-left: 50%;
+}
+#pay{
+  color: white;
+  font-size: 10px;
+  margin-top: 6px;
+  padding:  1px;
+}
+   #quantity
+   {
+     margin-bottom:  -20%;
+     margin-left: 30px;
+   }
+.doa:hover {
+  background-color: #8080ff;
+}
+#pay:focus,#pay:active {
+   outline: none !important;
+   box-shadow: none;
+  font-weight:bold;
+  color: #e6e6e6;
+}
+   #sem{
+     margin-top: -24px;
+   }
+
+}
